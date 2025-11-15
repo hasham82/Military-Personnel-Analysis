@@ -50,3 +50,7 @@ Seaborn
 
 ▶️ Run the App Locally
 streamlit run app.py
+<img width="1896" height="813" alt="ss1" src="https://github.com/user-attachments/assets/38e439ed-5ff9-42d2-8256-5c2c98392060" />
+<img width="1838" height="832" alt="ss3" src="https://github.com/user-attachments/assets/f2974a44-167c-4b07-b95d-1c6a9adc46e2" />
+<img width="1858" height="827" alt="ss2" src="https://github.com/user-attachments/assets/22c40e04-a736-4e25-bfff-d4704eb975ac" />
+
